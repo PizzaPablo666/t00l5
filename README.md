@@ -30,4 +30,6 @@ That will run it on startup.
 ### Uninstall
 `$ sudo make uninstall`
 Will uninstall the program, but not the logs.
+  
+Keylogger is inspired from GiacomoLaw/Keylogger  
 
