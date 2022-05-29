@@ -1,5 +1,7 @@
 import socket
 
+from network_connect import SRV_ADDR, SRV_PORT
+
 
 SRV_ADDR = '0.0.0.0'
 SRV_PORT = 9090
